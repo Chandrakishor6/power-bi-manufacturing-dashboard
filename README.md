@@ -57,7 +57,7 @@ Here are some of the key metrics used in the dashboard:
 
 - **Energy Consumption (KWH/Kg)**: Measures energy used per kilogram of output — used to monitor efficiency.
 
-## Sample Screenshots (Blurred)
+## Sample Screenshots
 
 | Safety | OHC | Quality | Extrusion | Extrusion_rejection_Analysis | IM | IM_Rejection_Analysis | Maintenance | Manpower |
 |--------|-----|---------|-----------|------------------------------|----|-----------------------|-------------|----------|
