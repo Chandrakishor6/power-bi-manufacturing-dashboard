@@ -61,7 +61,7 @@ Here are some of the key metrics used in the dashboard:
 
 | Safety | OHC | Quality | Extrusion | Extrusion_rejection_Analysis | IM | IM_Rejection_Analysis | Maintenance | Manpower |
 |--------|-----|---------|-----------|------------------------------|----|-----------------------|-------------|----------|
-| ![Safety](Safety.png) | ![OHC](OHC.png) | ![Quality](Quality.png) |  ![Extrusion](Extrusion_production.png) | ![Extrusion_Rejection](Extrusion_Rejection_Analysis.png) | ![IM](IM_Production.png) | ![IM_Rejection](IM_Rejection_Analysis.png) | ![Maintenance](Maintenance.png) | ![Manpower](Manpower.png) |
+| ![Safety](Safety.png) | ![OHC](OHC.png) | ![Quality](Quality.png) |  ![Extrusion](Extrusion_production.png) | ![Extrusion_Rejection](Extrusion_Rejection_analysis.png) | ![IM](IM_Production.png) | ![IM_Rejection](IM_Rejection_Analysis.png) | ![Maintenance](Maintenance.png) | ![Manpower](Manpower.png) |
 
 
 ## Outcomes
@@ -78,7 +78,7 @@ Aspiring Data Analyst | Skilled in Power BI, SQL, Excel
 [LinkedIn](https://www.linkedin.com/in/chandrakishor06)
 
 
-## 📌 Legal Note
+## Legal Note
 
-This dashboard was built during my internship at **Ashirvad by Aliaxis** as part of the Operational Excellence team. All sensitive data has been excluded or blurred. The `.pbix` file is not shared publicly to honor confidentiality.
+This dashboard was built during my internship at **Ashirvad by Aliaxis** as part of the Operational Excellence team. All sensitive data has been excluded. The `.pbix` file is not shared publicly to honor confidentiality.
 
