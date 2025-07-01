@@ -76,9 +76,3 @@ Here are some of the key metrics used in the dashboard:
 **Chandra Kishor Mandal**  
 Aspiring Data Analyst | Skilled in Power BI, SQL, Excel  
 [LinkedIn](https://www.linkedin.com/in/chandrakishor06)
-
-
-## Legal Note
-
-This dashboard was built during my internship at **Ashirvad by Aliaxis** as part of the Operational Excellence team. All sensitive data has been excluded. The `.pbix` file is not shared publicly to honor confidentiality.
-
