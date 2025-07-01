@@ -1,4 +1,4 @@
-# power-bi-manufacturing-dashboard
+# Power BI Manufacturing Dashboard
 A power BI dashboard for monitoring manufacturing KPIs, built during my internship at Ashirvad by Aliaxis. Screenshots provided for demonstration
 
 # Manufacturing Operations Dashboard – Power BI Project
