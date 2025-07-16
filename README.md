@@ -1,4 +1,4 @@
-# Manufacturing Operations KPI Dashboard – Power BI Project
+# Manufacturing KPI Dashboard – Power BI Project
 
 This project highlights a simulated version of a **Power BI dashboard** I developed during my internship at **Ashirvad by Aliaxis**, a leading manufacturing organization.  
 The dashboard was designed to provide plant-wide visibility of operational performance, enabling the **Operational Excellence** team to monitor and improve key KPIs across departments including **Production, Maintenance, Safety, Quality, and HR**.
