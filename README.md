@@ -1,78 +1,79 @@
-# Power BI Manufacturing KPI Dashboard
-A power BI dashboard for monitoring manufacturing KPIs, built during my internship at Ashirvad by Aliaxis. Screenshots provided for demonstration
+# Manufacturing Operations KPI Dashboard – Power BI Project
 
-# Manufacturing Operations Dashboard – Power BI Project
+This project highlights a simulated version of a **Power BI dashboard** I developed during my internship at **Ashirvad by Aliaxis**, a leading manufacturing organization.  
+The dashboard was designed to provide plant-wide visibility of operational performance, enabling the **Operational Excellence** team to monitor and improve key KPIs across departments including **Production, Maintenance, Safety, Quality, and HR**.
 
-This project showcases a simulated version of a Power BI dashboard I created during my internship at a leading manufacturing company. The dashboard was built to enhance visibility of plant-wide performance metrics, helping the Operational Excellence team monitor key KPIs across departments such as **Production, Maintenance, Safety, Quality, and HR**.
+> **Note:** Due to confidentiality agreements, only screenshots are shared. Actual datasets and `.pbix` files are not included.
 
- **Disclaimer**: Due to confidentiality agreements, only screenshots are provided. Actual data and .pbix files are not shared.
+---
 
-## Project Summary
+## 📌 Project Overview
 
-The dashboard enables leadership to make data-driven decisions by providing insights into:
+The dashboard served as a centralized performance monitoring tool, allowing leadership and departmental managers to make data‑driven decisions through:
 
-- Department-wise incident tracking 
-- Machine-wise production and rejection analysis (Extrusion & Injection Molding)
-- Shift and date-wise downtime analysis
-- Manpower utilization per metric ton produced
-- Energy consumption and maintenance breakdowns
-- Complaint types and rejection categories
+- ✅ Department-wise safety and incident tracking  
+- ✅ Machine-wise production and rejection analysis (Extrusion & Injection Molding)  
+- ✅ Shift-wise and date-wise downtime reporting  
+- ✅ Manpower utilization metrics per metric ton produced  
+- ✅ Energy consumption and maintenance insights  
+- ✅ Complaint type categorization and rejection analysis  
 
-## Key Features
+---
 
-- Real-time KPI tracking with card visuals
-- Trend charts for productivity, rejection, and downtime
-- Machine and shift performance benchmarking
-- Department-wise safety incident reporting
-- Drill-down into rejection causes by product line and machine
+## ✨ Key Features
 
-## Tools & Techniques
+- 📊 Dynamic KPI cards for real-time monitoring  
+- 📈 Interactive trend charts for productivity, rejection rates, and downtime  
+- ⚙️ Machine and shift-level performance benchmarking  
+- 🛡️ Department-wise safety and near-miss incident reporting  
+- 🔍 Drill-down capability for analyzing rejection causes by product line and machine  
+- 🗂️ Slicers and page navigation for intuitive exploration of data  
 
-- **Power BI Desktop** for visualization
-- **Power Query** for data transformation and cleaning
-- **DAX** for calculated fields (e.g., Rejection %, OEE, AU%)
-- **Slicers** for filtering by department, shift, product, and time
-- **Page navigation** for multi-section dashboard
+---
 
+## 🛠️ Tools & Techniques
 
-## KPI & Metric Descriptions
+- **Power BI Desktop** – data modeling and visualization  
+- **Power Query** – data transformation and cleaning  
+- **DAX** – calculated measures (*Rejection %*, *OEE*, *AU%*)  
+- **Slicers & Filters** – department, shift, product, and time-based analysis  
+- **Multi-page navigation** – structured dashboard sections  
 
-Here are some of the key metrics used in the dashboard:
+---
 
-- **OEE (Overall Equipment Effectiveness)**: Measures the efficiency of manufacturing equipment. It's calculated using Availability × Performance × Quality.
+## 📐 Key Metrics Monitored
 
-- **AU% (Available Utilization)**: Represents the percentage of time equipment is available for production compared to scheduled time.
+- **OEE (Overall Equipment Effectiveness):** Availability × Performance × Quality  
+- **AU% (Available Utilization):** Ratio of available production time to scheduled time  
+- **Rejection %:** Defective output as a percentage of total production  
+- **MD/MT (Man-days per Metric Ton):** Manpower efficiency per metric ton of output  
+- **Near Miss:** Potential safety incidents avoided  
+- **HMS (Hazard Management System):** Tracking and resolution of safety hazards  
+- **Complaint Types:** Categorization of customer/internal complaints (*Visual Not OK*, *Impact Test Fail*, etc.)  
+- **Downtime Reasons:** Root causes (*Screw cooling issues*, *Feeder problems*, *Mold maintenance*, etc.)  
+- **Energy Consumption (kWh/kg):** Power consumption per unit output  
 
-- **Rejection %**: Percentage of defective products compared to total production.
+---
 
-- **MD/MT (Man-days per Metric Ton)**: Manpower efficiency — how many man-days were required to produce 1 MT of product.
+## 📸 Sample Dashboard Views
 
-- **Near Miss**: An unplanned event that could have resulted in an accident, injury, or damage.
+| Safety | OHC | Quality | Extrusion | Extrusion Rejection | Injection Molding | IM Rejection | Maintenance | Manpower |
+|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+| ![Safety](Safety.png) | ![OHC](OHC.png) | ![Quality](Quality.png) | ![Extrusion](Extrusion_production.png) | ![Extrusion Rejection](Extrusion_Rejection_analysis.png) | ![IM](IM_Production.png) | ![IM Rejection](IM_Rejection_Analysis.png) | ![Maintenance](Maintenance.png) | ![Manpower](Manpower.png) |
 
-- **HMS (Hazard Management System)**: Tracks safety hazards identified and resolved.
+---
 
-- **Complaint Type**: Categorization of customer or internal complaints (e.g., Visual Not OK, Impact Test Fail).
+## ✅ Key Outcomes
 
-- **Downtime Reasons**: Categories of equipment downtime (e.g., Screw Cooling issue, Feeder problem, Mold maintenance).
+- Delivered a **centralized platform** for monitoring critical KPIs  
+- **Reduced manual reporting** effort across shifts and departments  
+- Improved decision-making through real-time tracking of OEE, AU%, and rejection trends  
+- Enabled **root cause analysis** for recurring quality issues, supporting continuous improvement initiatives  
 
-- **Energy Consumption (KWH/Kg)**: Measures energy used per kilogram of output — used to monitor efficiency.
+---
 
-## Sample Screenshots
-
-| Safety | OHC | Quality | Extrusion | Extrusion_rejection_Analysis | IM | IM_Rejection_Analysis | Maintenance | Manpower |
-|--------|-----|---------|-----------|------------------------------|----|-----------------------|-------------|----------|
-| ![Safety](Safety.png) | ![OHC](OHC.png) | ![Quality](Quality.png) |  ![Extrusion](Extrusion_production.png) | ![Extrusion_Rejection](Extrusion_Rejection_analysis.png) | ![IM](IM_Production.png) | ![IM_Rejection](IM_Rejection_Analysis.png) | ![Maintenance](Maintenance.png) | ![Manpower](Manpower.png) |
-
-
-## Outcomes
-
-- Provided a centralized visibility tool for key production KPIs
-- Reduced manual reporting effort across shifts and departments
-- Enabled better planning by tracking AU%, OEE, and rejection rates
-- Supported root cause analysis for frequent quality issues
-
-## About Me
+## 👤 About Me
 
 **Chandra Kishor Mandal**  
-Aspiring Data Analyst | Skilled in Power BI, SQL, Excel  
+*Aspiring Data Analyst | Proficient in Power BI, SQL, and Excel*  
 [LinkedIn](https://www.linkedin.com/in/chandrakishor06)
